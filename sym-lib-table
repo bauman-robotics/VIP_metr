@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VIP_metr_lib")(type "KiCad")(uri "${KIPRJMOD}/VIP_metr_lib.kicad_sym")(options "")(descr ""))
+)
